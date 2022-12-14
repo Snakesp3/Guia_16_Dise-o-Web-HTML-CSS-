@@ -1,0 +1,18 @@
+header{
+    background-color: transparent;
+    color:whitesmoke;
+    font-size: 20px;
+
+}
+h2{
+   color:aquamarine;
+   display: flex;
+   text-align: center;
+
+}
+nav{
+    display:inline-flex;
+    padding:10px;
+
+
+}
