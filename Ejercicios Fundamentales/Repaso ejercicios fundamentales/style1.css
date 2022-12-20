@@ -15,6 +15,7 @@ body {
 
 .form-register {
     width: 490px;
+    
     background-color: rgb(1, 23, 44);
     padding: 35px;
     box-shadow: 7px 13px 37px;
@@ -29,8 +30,9 @@ body {
 .form-register h4 {
     
     color: rgba(209, 136, 0, 0.952);
-    font-size: 36px;
-    padding-inline-start: 0cm;
+    font-size:36px;
+    padding-left: 6px;
+    
     margin: 10px;
     text-align: center;
     
