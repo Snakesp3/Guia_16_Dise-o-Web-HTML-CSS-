@@ -8,11 +8,12 @@
 
 body {
 
-    background-image: url('fondooo.JPG');
+    background-image: url(https://img.freepik.com/vector-gratis/fondo-banner-abstracto-formas-rojas_1361-3348.jpg?w=900&t=st=1671485196~exp=1671485796~hmac=847b2ef8fc14d70921597780f92d0e34b7596aa4f7bb382e10b7637521938acd);
+    background-size: cover
 }
 
 .form-register {
-    width: 400px;
+    width: 500px;
     background-color: rgb(1, 23, 44);
     padding: 30px;
     box-shadow: 7px 13px 37px;
