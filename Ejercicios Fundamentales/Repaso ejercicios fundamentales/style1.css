@@ -8,14 +8,15 @@
 
 body {
 
-    background-image: url(https://img.freepik.com/vector-gratis/fondo-banner-abstracto-formas-rojas_1361-3348.jpg?w=900&t=st=1671485196~exp=1671485796~hmac=847b2ef8fc14d70921597780f92d0e34b7596aa4f7bb382e10b7637521938acd);
+    background-image: url(https://www.xtrafondos.com/wallpapers/textura-azul-3d-low-poly-3601.jpg);
     background-size: cover
+    
 }
 
 .form-register {
-    width: 500px;
+    width: 490px;
     background-color: rgb(1, 23, 44);
-    padding: 30px;
+    padding: 35px;
     box-shadow: 7px 13px 37px;
     margin: auto;
     margin-top: 100px;
@@ -26,11 +27,14 @@ body {
 }
 
 .form-register h4 {
-
-    color: aliceblue;
-    font-size: 16px;
-    padding: 5px;
-    margin-left: 0px;
+    
+    color: rgba(209, 136, 0, 0.952);
+    font-size: 36px;
+    padding-inline-start: 0cm;
+    margin: 10px;
+    text-align: center;
+    
+    
 
 }
 
@@ -41,25 +45,36 @@ body {
     border-radius: 4px;
     margin-bottom: 15px;
     color: aliceblue;
-    border: 1px solid chocolate;
+    border: 1px solid rgb(190, 94, 26);
 }
 
 .form-register p {
 
-    height: 70px;
+    height: 55px;
     text-align: center;
     color: rgb(255, 255, 255);
-    font-size: 14px;
+    font-size: 18px;
     line-height: 40px;
 
 }
 
 .form-register a {
     height: 70px;
-    color: aliceblue;
+    color: rgb(253, 0, 0);
     text-decoration: none;
-    font-size: 14px;
+    font-size: 20px;
 
+
+}
+
+
+.terminos{
+    text-align: center;
+    font-size: 25px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+   
+    
+    
 
 }
 
@@ -69,7 +84,7 @@ body {
     text-decoration: underline;
 }
 
-.Boton {
+.submit {
     color: rgb(255, 255, 255);
     background-color: rgb(8, 32, 241);
     border: 1px;
